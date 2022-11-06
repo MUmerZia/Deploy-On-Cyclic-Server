@@ -1,0 +1,23 @@
+{
+  "name": "deploy-on-cyclic-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUmerZia/Deploy-On-Cyclic-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUmerZia/Deploy-On-Cyclic-Server/issues"
+  },
+  "homepage": "https://github.com/MUmerZia/Deploy-On-Cyclic-Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
